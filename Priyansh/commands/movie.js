@@ -3,7 +3,7 @@ module.exports = {
   config: {
     name: "movie",
     version: "1.1",
-    author: "nahim",
+    author: "𝗥𝟬𝗪𝟯𝗗𝗬 𝗞𝗜𝗜𝗡𝗚",
     countDown: 5,
     role: 0,
     shortDescription: {
