@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "jani",
     version: "1.1.1",
 	hasPermssion: 0,
-	credits: "JULMI", 
+	credits: "𝗥𝟬𝗪𝟯𝗗𝗬 𝗞𝗜𝗜𝗡𝗚", 
 	description: "Just Respond",
 	commandCategory: "no prefix",
     cooldowns: 5, 
