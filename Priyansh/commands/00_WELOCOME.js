@@ -2,8 +2,8 @@ module.exports.config = {
   name: "welcome",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHANKAR SUMAN",
-  description: "THIS BOT IS MADE BY JULMI JAAT",
+  credits: "𝗥𝟬𝗪𝟯𝗗𝗬 𝗞𝗜𝗜𝗡𝗚",
+  description: "THIS BOT IS MADE BY 𝗥𝟬𝗪𝟯𝗗𝗬 𝗞𝗜𝗜𝗡𝗚",
   commandCategory: "PROFILE DP",
   cooldowns: 0
 };
