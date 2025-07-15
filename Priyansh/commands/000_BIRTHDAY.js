@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "bd",
     version: "1.0",
-    author: "julmi",
+    author: "𝗥𝟬𝗪𝟯𝗗𝗬 𝗞𝗜𝗜𝗡𝗚",
     role: 0,
     category: "𝗪𝗜𝗦𝗛𝗘𝗦𝗛",
     guide: {
