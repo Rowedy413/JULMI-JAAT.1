@@ -21,7 +21,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 react.includes("Admin")) {
 		var msg = {
 				body: "★𝗢𝘄𝗻𝗲𝗿ﮩ٨ـﮩ💚💖ـ٨\n\n✦🌸===『*★🌸◉❖𝗥𝟬𝗪𝟯𝗗𝗬 𝗞𝗜𝗜𝗡𝗚❖◉✦\n\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐋𝐈𝐍𝐊 𝐌𝐄𝐑𝐄 𝐁𝐎𝐒𝐒 𝐊𝐀😁😋 https://www.facebook.com/rowedy.king.2025`",
-				attachment: fs.createReadStream(__dirname + `/noprefix/Julmi.jpg`)
+				attachment: fs.createReadStream(__dirname + `/noprefix/shivam.jpg`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("📷", event.messageID, (err) => {}, true)
